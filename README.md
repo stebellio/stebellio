@@ -1,5 +1,3 @@
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi,%20I'm%20Stebellio!&fontSize=40&fontAlignY=35&desc=Backend%20Engineer%20%7C%20PHP%20%26%20TypeScript%20%7C%20Flutter%20Enthusiast&descAlignY=55)
-
 ## 👋 About Me
 
 I'm **Stebellio**, a backend-focused Software Engineer with 5+ years of experience in PHP and TypeScript/JavaScript. My passion is building robust, scalable solutions—mainly behind the scenes, but I love creating seamless experiences for users too!
