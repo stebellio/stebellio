@@ -23,7 +23,3 @@ I'm **Stebellio**, a backend-focused Software Engineer with 5+ years of experien
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Laminas](https://img.shields.io/badge/Laminas-0054A6?style=for-the-badge)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge)
-
----
-
-![Stebellio's GitHub stats](https://github-readme-stats.vercel.app/api?username=stebellio&show_icons=true&theme=radical)
