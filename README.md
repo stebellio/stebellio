@@ -24,15 +24,6 @@ I'm **Stebellio**, a backend-focused Software Engineer with 5+ years of experien
 ![Laminas](https://img.shields.io/badge/Laminas-0054A6?style=for-the-badge)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge)
 
-## 🌈 Fun Side
-
-When not coding, I enjoy exploring new tech, tackling creative side projects, and keeping my Flutter apps running smoothly.  
-*(If you want to add a specific hobby or fun fact, let me know!)*
-
-## 📫 Get in Touch
-
-<!-- Add your social links here (LinkedIn, Twitter, Website, etc.) -->
-
 ---
 
 ![Stebellio's GitHub stats](https://github-readme-stats.vercel.app/api?username=stebellio&show_icons=true&theme=radical)
