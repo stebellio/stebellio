@@ -1,25 +1,21 @@
-## 👋 About Me
+## 👋 About me
 
-I'm **Stebellio**, a backend-focused Software Engineer with 5+ years of experience in PHP and TypeScript/JavaScript. My passion is building robust, scalable solutions—mainly behind the scenes, but I love creating seamless experiences for users too!
+Backend Engineer with 5 years of experience building APIs and 
+system integrations in insurtech.
 
-- 🛠️ **Languages:** PHP, TypeScript, JavaScript, Dart (Flutter)
-- 🗄️ **Frameworks:**  
-  - PHP: Laminas, CodeIgniter, Zend Framework, Laravel, CakePHP  
-  - TS/JS: NestJS, Angular  
-- 📱 **Mobile:** Flutter (Maintaining two active job apps!)
+- **Primary stack:** TypeScript · Node.js · NestJS · GCP (Cloud Functions, 
+  Cloud Run, Pub/Sub) · PostgreSQL
+- **Also worked with:** PHP (Laminas), Angular, Flutter
 
-## 🚀 What I Do
+## 🚀 What I do
 
-- Architect and maintain backend APIs for web and mobile.
-- Develop and deploy full-stack solutions, from database to UI.
-- Build and maintain production-grade Flutter apps.
+- Design and maintain backend APIs for production systems
+- Lead architectural redesigns — recent work: ~5x performance gain on 
+  CSV import pipelines, monolith-to-microservice migration with event-driven 
+  flows on GCP
+- Mentor junior engineers, work directly with business stakeholders
 
 ## 💡 Toolbox
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laminas](https://img.shields.io/badge/Laminas-0054A6?style=for-the-badge)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge)
