@@ -1,7 +1,6 @@
 ## 👋 About me
 
-Backend Engineer with 5 years of experience building APIs and 
-system integrations in insurtech.
+Backend Engineer with 5 years of experience building APIs and system integrations, currently in the insurtech space.
 
 - **Primary stack:** TypeScript · Node.js · NestJS · GCP (Cloud Functions, 
   Cloud Run, Pub/Sub) · PostgreSQL
